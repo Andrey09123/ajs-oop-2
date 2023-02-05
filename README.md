@@ -1,2 +1,1 @@
-# ajs-oop-2
-[![Build status](https://ci.appveyor.com/api/projects/status/t1t836yqxbp5lpoo?svg=true)](https://ci.appveyor.com/project/ADeoZ/ajs-oop-2)
+[![Build status](https://ci.appveyor.com/api/projects/status/2jkj0wkct8apk5l3?svg=true)](https://ci.appveyor.com/project/Andrey09123/ajs-oop-2)
